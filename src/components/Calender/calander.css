@@ -1,0 +1,10 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+.calander{
+    padding: 10%;
+    align-items: center;
+    justify-content: center;
+    width: 1200px;
+    height: 800px;
+    background-color: blueviolet;
+}
